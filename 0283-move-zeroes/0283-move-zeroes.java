@@ -9,9 +9,6 @@ class Solution {
                 arr[j] = temp;
                 i++;
             }
-        }
-        for(int x:arr  ){
-            System.out.print(arr+" ");
-        }
+    }
     }
 }
